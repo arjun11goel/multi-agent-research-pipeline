@@ -1,0 +1,29 @@
+# Core LangChain framework
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# MistralAI
+langchain-mistralai
+
+# Tavily web search API
+tavily-python
+tavily
+
+# Web scraping and HTML parsing
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Optional: terminal output formatting
+rich
+
+# Optional: retry handling
+tenacity
+
+# Streamlit
+Streamlit
