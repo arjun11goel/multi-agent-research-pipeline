@@ -170,8 +170,6 @@ The application includes an LLM-generated critique with a score and written feed
 - Search and generation depend on external APIs, network connectivity, and service limits.
 - The Critic Chain can overlook factual errors, so its score should not be interpreted as a guarantee of report quality.
 
----
-
 ## Author
 
 **Arjun Goel**
