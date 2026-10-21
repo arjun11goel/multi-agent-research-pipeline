@@ -1,13 +1,5 @@
 # ScrapeResearch.ai
-**Built with:** Python • LangChain • Mistral AI • Tavily • Streamlit.
-
-ScrapeResearch.ai turns a research topic into a structured report through a four-stage workflow: web search, webpage extraction, report writing, and AI-based critique. It combines live search results and extracted webpage content with an LLM-powered writing pipeline, then presents the report, sources, and critique in a Streamlit interface.
-
-<p align="center">
-  <img src="images/Home%20Page.png" alt="ScrapeResearch.ai home page" width="100%" />
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" /></a>
   <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/Orchestration-LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" /></a>
@@ -15,7 +7,13 @@ ScrapeResearch.ai turns a research topic into a structured report through a four
   <a href="https://tavily.com/"><img src="https://img.shields.io/badge/Web%20Search-Tavily-635BFF" alt="Tavily" /></a>
 </p>
 
-**Live demo:** Coming soon
+ScrapeResearch.ai transforms a research topic into a structured report through a four-stage pipeline: web search, webpage extraction, report generation, and AI-powered critique. It combines live search results and extracted webpage content to produce detailed reports, with sources, critic scores, and feedback presented through an interactive Streamlit interface.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://scraperesearch-ai.streamlit.app/)
+
+<p align="center">
+  <img src="images/Home%20Page.png" alt="ScrapeResearch.ai home page" width="100%" />
+</p>
 
 ## Features
 
